@@ -1,0 +1,9 @@
+Pizzaria: Pizza Aluno
+
+Versao: 002
+Operador:
+
+Telefone:
+Cliente:
+CPF:
+E-mail:
