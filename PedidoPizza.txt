@@ -1,0 +1,7 @@
+Pizzaria: Pizza Aluno
+
+Versao: 001
+Operador:
+
+Telefone:
+Cliente:
